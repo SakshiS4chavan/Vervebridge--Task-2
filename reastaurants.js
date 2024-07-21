@@ -1,0 +1,66 @@
+export const restaurants=[
+	{
+		"imageUrl":"https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg"
+		"name":"Pizza-hut",
+		"rating":"4.7",
+		"city":"Mumbai",
+		"description":"Pizzas"
+	},
+	{
+			"imageUrl":"https://media.istockphoto.com/id/1167716568/photo/take-out-fried-chicken-chips-and-coleslaw.webp?s=612x612&w=is&k=20&c=Ha0cP9Bu7-zOPMCrdJDX-XRlXod30a1tlBlojwPlX2A="
+			"name":"Dalmia's Fastfood",
+			"rating":"3.8",
+			"city":"Bandra",
+			"description":"Snacks"
+		},
+		{
+				"imageUrl":"https://media.istockphoto.com/id/458976877/photo/bk-mushroom-swiss-burger-large-combo.jpg?s=612x612&w=0&k=20&c=fOPmK8Q14tJjfsC1zHPIS51pOTYFLNYJT6k6PK56T2A="
+				"name":"Burger Point",
+				"rating":"4.7",
+				"city":"Mumbai",
+				"description":"Pizzas"
+			},
+			{
+					"imageUrl":"https://media.istockphoto.com/id/458531057/photo/bucket-of-kentucky-fried-chicken.jpg?s=612x612&w=0&k=20&c=ml-Y0RSoWqOdzGkr_y7LQL19FIFyCIg9ULNkRPasmLc="
+					"name":"KFC",
+					"rating":"4.7",
+					"city":"pune",
+					"description":"KFC"
+				},
+				{
+						"imageUrl":"https://media.istockphoto.com/id/857927726/photo/pasta-with-meat-tomato-sauce-and-vegetables.jpg?s=612x612&w=is&k=20&c=6DNujno-V39CgJ6YW2szlLVn35I-1jXnpPJwbtKKvdI="
+						"name":"Pasta",
+						"rating":"4.7",
+						"city":"kolkata",
+						"description":"pasta"
+					},
+					{
+							"imageUrl":"https://media.istockphoto.com/id/1237682754/photo/chicken-majboos-arabic-style-stock-photos.jpg?s=612x612&w=is&k=20&c=lh2HR56nDiHmL-iO7tWgLINElfUsM4ExPBafnuNlgho="
+							"name":"Chicken Majboos Arabic style",
+							"rating":"4.7",
+							"city":"Karad",
+							"description":"chicken"
+						},
+						{
+								"imageUrl":"https://media.istockphoto.com/id/1349441786/photo/indian-food-kadai-paneer.jpg?s=1024x1024&w=is&k=20&c=xaTRoE5kDHkbGS987N3c3irc7Gf1aGiWmsZtdKhEwB0="
+								"name":"Paneer",
+								"rating":"4.7",
+								"city":"Mumbai",
+								"description":"paneer"
+							},
+							{
+									"imageUrl":"https://cdn.pixabay.com/photo/2020/09/21/14/07/meal-5590186_640.jpg"
+									"name":"Momos",
+									"rating":"4.7",
+									"city":"Pune",
+									"description":"Momo"
+								},
+								{
+										"imageUrl":"https://cdn.pixabay.com/photo/2023/07/18/19/19/spring-rolls-8135469_640.jpg"
+										"name":"roll",
+										"rating":"4.7",
+										"city":"Chennai",
+										"description":"roll"
+									},
+	
+]
